@@ -132,23 +132,4 @@ If you're using **Amazon Bedrock**:
 - Make sure your environment has proper AWS credentials.
 - The summarizer uses `boto3` to invoke Titan model via Bedrock.
 
----
 
-## 🛠️ Next Steps (Optional)
-
-- [ ] Add `/process` endpoint to auto-run full pipeline
-- [ ] Deploy to AWS EC2, Fargate, or Lambda
-- [ ] Connect to Bedrock Agent as a Tool
-- [ ] Add UI dashboard with React or Streamlit
-
----
-
-## 📄 License
-
-MIT © [Your Name or Org]
-
----
-
-## 🙋‍♂️ Contact
-
-For issues, feature requests, or support, open an [issue](https://github.com/your-username/mcp_scraper/issues).
